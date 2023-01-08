@@ -22,6 +22,7 @@ The player is able to:
   -Complete missions on the scoreboards
 
 As programmer I programmed :
+
   -The pathfinding.
   
   -AI interactions on the planet.
@@ -35,6 +36,7 @@ As programmer I programmed :
   -Rotation of the planet + use of levers
   
   
+
 And helped contribute to:
 
   -Pickup and drop implementation of statues
