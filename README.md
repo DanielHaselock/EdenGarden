@@ -23,24 +23,24 @@ The player is able to:
 
 As programmer I programmed :
 
-    -The pathfinding.
+   -The pathfinding.
   
-    -AI interactions on the planet.
+   -AI interactions on the planet.
   
-    -Spawning of Animals.
+   -Spawning of Animals.
   
-     -Implementation of Physics
+   -Implementation of Physics
   
-    -Scoreboard mechanic
+   -Scoreboard mechanic
   
-    -Rotation of the planet + use of levers
+   -Rotation of the planet + use of levers
   
   
 
 And helped contribute to:
 
-    -Pickup and drop implementation of statues
+   -Pickup and drop implementation of statues
   
-    -VR implementation in Unreal (in version 5.0.3)
+   -VR implementation in Unreal (in version 5.0.3)
   
   
